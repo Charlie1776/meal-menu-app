@@ -1,26 +1,8 @@
-[
-  {
-    "name": "Breakfast: Greek yogurt, berries, granola",
-    "calories": 420,
-    "protein": 30,
-    "eaten": false
-  },
-  {
-    "name": "Lunch: Grilled chicken salad",
-    "calories": 550,
-    "protein": 45,
-    "eaten": false
-  },
-  {
-    "name": "Snack: Protein shake",
-    "calories": 200,
-    "protein": 25,
-    "eaten": false
-  },
-  {
-    "name": "Dinner: Salmon, rice, broccoli",
-    "calories": 650,
-    "protein": 40,
-    "eaten": false
-  }
-]
+{
+  "date": "2026-11-08",
+  "meals": [
+    {"name": "Breakfast: Greek yogurt, berries, granola", "calories": 420, "protein": 30, "eaten": false},
+    {"name": "Lunch: Grilled chicken salad", "calories": 550, "protein": 45, "eaten": false},
+    {"name": "Dinner: Salmon, rice, broccoli", "calories": 650, "protein": 40, "eaten": false}
+  ]
+}
